@@ -2,7 +2,7 @@
 This is the official repository for the paper "Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network."
 
 
- ### ***!We are currently organizing the code and gradually updating the repository.***
+ ### ***!We are currently organizing the code and gradually updating the repository.*** \\
 
 
 * Pretrained SNN + Adaptive Activation Scaling + Unsupervised entropy loss with temperature smooth + Confidence based instance weighting loss for detection —>  Online Adaptation for Remote Sensing
@@ -10,7 +10,7 @@ This is the official repository for the paper "Brain-Inspired Online Adaptation 
   * we propose an adaptive activation scaling scheme to boost online SNN adaptation performance, particularly in low time-steps.
   * Furthermore, for the more challenging remote sensing detection task, we propose a confidence-based instance weighting scheme, which substantially improves adaptation performance in the detection task.
 
-![segmentation](https://github.com/user-attachments/assets/e60efb85-f691-4bf1-a683-b20294eff86b)
+![segmentation](https://github.com/user-attachments/assets/0997c2aa-72f7-40f1-a4d6-2ee2eb6d3a98)
 
 
 ## Results
