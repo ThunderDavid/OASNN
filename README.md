@@ -9,8 +9,8 @@ This is the official repository for the paper "Brain-Inspired Online Adaptation 
 	* Starting with a pretrained SNN model, we design an efficient, unsupervised online adaptation algorithm, which adopts an approximation of the BPTT algorithm and only involves forward-in-time computation that significantly reduces the computational complexity of SNN adaptation learning.
   * we propose an adaptive activation scaling scheme to boost online SNN adaptation performance, particularly in low time-steps.
   * Furthermore, for the more challenging remote sensing detection task, we propose a confidence-based instance weighting scheme, which substantially improves adaptation performance in the detection task.
-  * 
-![Uploading segmentation.png…]()
+
+![segmentation](https://github.com/user-attachments/assets/e60efb85-f691-4bf1-a683-b20294eff86b)
 
 
 ## Results
