@@ -10,8 +10,7 @@ This is the official repository for the paper "Brain-Inspired Online Adaptation 
   * we propose an adaptive activation scaling scheme to boost online SNN adaptation performance, particularly in low time-steps.
   * Furthermore, for the more challenging remote sensing detection task, we propose a confidence-based instance weighting scheme, which substantially improves adaptation performance in the detection task.
 
-![segmentation](https://github.com/user-attachments/assets/0997c2aa-72f7-40f1-a4d6-2ee2eb6d3a98)
-
+![segmentation](https://github.com/user-attachments/assets/d170096f-291c-4604-8901-02df4a423a1d)
 
 ## Results
 * State-of-the-art results on seven datasets across classification, segmentation, and detection tasks.
