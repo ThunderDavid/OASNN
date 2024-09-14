@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-@Created on 2023/5/10 15:52
-@author: DDX
-"""
 import torch.nn as nn
 import torch
 import torch.nn.functional as F
